@@ -25,10 +25,10 @@ for file in os.listdir(cwd):
 print("Total size file in [{}] : {}bytes".format(cwd,total_size))
 
 # makedirs() method
+
 if not os.path.exists(os.path.join(cwd,"example")):
     print("Create folder!")
-    os.makedirs(os.path.join(cwd,"example"))
+    os.makedirs(os.path.join(cwd,"example"))get
 else:
     print("Folder already exist")
-    
 

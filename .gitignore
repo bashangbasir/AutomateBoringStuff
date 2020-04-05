@@ -79,3 +79,8 @@
 .history
 
 # End of https://www.gitignore.io/api/images,visualstudiocode
+Files IO/files/mydata.bak
+Files IO/files/mydata.dat
+Files IO/files/mydata.dir
+Files IO/files/test1.txt
+Files IO/files/test2.txt
