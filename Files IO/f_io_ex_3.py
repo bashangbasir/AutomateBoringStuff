@@ -28,7 +28,7 @@ print("Total size file in [{}] : {}bytes".format(cwd,total_size))
 
 if not os.path.exists(os.path.join(cwd,"example")):
     print("Create folder!")
-    os.makedirs(os.path.join(cwd,"example"))get
+    os.makedirs(os.path.join(cwd,"example"))
 else:
     print("Folder already exist")
 
