@@ -93,3 +93,10 @@ Files IO/files_backup/mydata.dir
 Files IO/files_backup/mydata.dat
 Files IO/files_backup/mydata.bak
 Files IO/files/example/test2.txt
+<<<<<<< Updated upstream
+=======
+Files IO/files/py/1.py
+Files IO/files/New Text Document.txt
+log.txt
+logging.txt
+>>>>>>> Stashed changes
