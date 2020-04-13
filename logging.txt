@@ -1,0 +1,6 @@
+2020-04-13 00:34:13,805 - DEBUG - i is 1, total is 1 
+2020-04-13 00:34:13,805 - DEBUG - i is 2, total is 2 
+2020-04-13 00:34:13,805 - DEBUG - i is 3, total is 6 
+2020-04-13 00:34:13,805 - DEBUG - i is 4, total is 24 
+2020-04-13 00:34:13,805 - DEBUG - Return value is 24
+2020-04-13 00:34:13,806 - DEBUG - end of program !
