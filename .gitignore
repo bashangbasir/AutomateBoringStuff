@@ -1,0 +1,108 @@
+
+# Created by https://www.gitignore.io/api/images,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=images,visualstudiocode
+
+### Images ###
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+
+# JPEG 2000
+*.jp2
+*.j2k
+*.jpf
+*.jpx
+*.jpm
+*.mj2
+
+# JPEG XR
+*.jxr
+*.hdp
+*.wdp
+
+# Graphics Interchange Format
+*.gif
+
+*.raw
+
+# Web P
+*.webp
+
+# Portable Network Graphics
+*.png
+
+# Animated Portable Network Graphics
+*.apng
+
+# Multiple-image Network Graphics
+*.mng
+
+# Tagged Image File Format
+*.tiff
+*.tif
+
+# Scalable Vector Graphics
+*.svg
+*.svgz
+
+# Portable Document Format
+*.pdf
+
+# X BitMap
+*.xbm
+
+# BMP
+*.bmp
+*.dib
+
+# ICO
+*.ico
+
+# 3D Images
+*.3dm
+*.max
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+# End of https://www.gitignore.io/api/images,visualstudiocode
+Files IO/files/mydata.bak
+Files IO/files/mydata.dat
+Files IO/files/mydata.dir
+Files IO/files/test1.txt
+Files IO/files/test2.txt
+Files IO/files/example/test1.txt
+
+Files IO/files_backup/example/test1.txt
+Files IO/files_backup/test2.txt
+Files IO/files_backup/test1.txt
+Files IO/files_backup/mydata.dir
+Files IO/files_backup/mydata.dat
+Files IO/files_backup/mydata.bak
+Files IO/files/example/test2.txt
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+Files IO/files/py/1.py
+Files IO/files/New Text Document.txt
+log.txt
+logging.txt
+>>>>>>> Stashed changes
+=======
+Files IO/files/py/1.py
+Files IO/files/New Text Document.txt
+log.txt
+*.txt
+>>>>>>> Debugging
