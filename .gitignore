@@ -106,3 +106,4 @@ Files IO/files/New Text Document.txt
 log.txt
 *.txt
 >>>>>>> Debugging
+*.bat
