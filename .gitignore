@@ -107,3 +107,4 @@ log.txt
 *.txt
 >>>>>>> Debugging
 *.bat
+*.exe
