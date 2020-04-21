@@ -12,8 +12,9 @@ elem = browser.find_element_by_css_selector("body > div.main > div:nth-child(1) 
 elem.click()
 
 about_author = browser.find_element_by_css_selector("#calibre_link-1609 > p")
+#get text of the element
 author = about_author.text
-print(author)
+print("About author : ",author)
 
 browser.get("https://google.com")
 
