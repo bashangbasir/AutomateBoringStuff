@@ -110,5 +110,6 @@ log.txt
 *.exe
 *.log
 *.csv
-*xlsx
+*.xlsx
+*docx
 
